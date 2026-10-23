@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" fill="none" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="heroArcGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D8B46E" stop-opacity="0"/>
+      <stop offset="28%" stop-color="#D8B46E" stop-opacity="0.72"/>
+      <stop offset="72%" stop-color="#A8E6D1" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#A98240" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path pathLength="1" d="M-80 660 C 380 870, 980 820, 1520 440" stroke="url(#heroArcGrad)" stroke-width="1.35" stroke-linecap="round"/>
+  <path pathLength="1" d="M110 780 C 540 920, 1080 780, 1500 320" stroke="url(#heroArcGrad)" stroke-width="0.95" stroke-dasharray="5 7" stroke-linecap="round"/>
+  <path pathLength="1" d="M600 120 C 880 350, 1180 370, 1490 180" stroke="url(#heroArcGrad)" stroke-width="1.0" stroke-linecap="round"/>
+  <g class="hero-ruler-ticks-left">
+    <line x1="24" y1="140" x2="42" y2="140" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="24" y1="166" x2="33" y2="166" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="192" x2="33" y2="192" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="218" x2="33" y2="218" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="244" x2="33" y2="244" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="270" x2="42" y2="270" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="24" y1="296" x2="33" y2="296" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="322" x2="33" y2="322" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="348" x2="33" y2="348" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="374" x2="33" y2="374" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="400" x2="42" y2="400" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="24" y1="426" x2="33" y2="426" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="452" x2="33" y2="452" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="478" x2="33" y2="478" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="504" x2="33" y2="504" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="530" x2="42" y2="530" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="24" y1="556" x2="33" y2="556" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="582" x2="33" y2="582" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="608" x2="33" y2="608" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="634" x2="33" y2="634" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="660" x2="42" y2="660" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="24" y1="686" x2="33" y2="686" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="712" x2="33" y2="712" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="24" y1="738" x2="33" y2="738" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+  </g>
+  <g class="hero-ruler-ticks-right">
+    <line x1="1398" y1="140" x2="1416" y2="140" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="1407" y1="166" x2="1416" y2="166" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="192" x2="1416" y2="192" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="218" x2="1416" y2="218" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="244" x2="1416" y2="244" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1398" y1="270" x2="1416" y2="270" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="1407" y1="296" x2="1416" y2="296" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="322" x2="1416" y2="322" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="348" x2="1416" y2="348" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="374" x2="1416" y2="374" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1398" y1="400" x2="1416" y2="400" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="1407" y1="426" x2="1416" y2="426" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="452" x2="1416" y2="452" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="478" x2="1416" y2="478" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="504" x2="1416" y2="504" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1398" y1="530" x2="1416" y2="530" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="1407" y1="556" x2="1416" y2="556" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="582" x2="1416" y2="582" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="608" x2="1416" y2="608" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="634" x2="1416" y2="634" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1398" y1="660" x2="1416" y2="660" stroke="#D8B46E" stroke-opacity="0.55" stroke-width="1" />
+    <line x1="1407" y1="686" x2="1416" y2="686" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="712" x2="1416" y2="712" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+    <line x1="1407" y1="738" x2="1416" y2="738" stroke="#D8B46E" stroke-opacity="0.28" stroke-width="1" />
+  </g>
+</svg>
